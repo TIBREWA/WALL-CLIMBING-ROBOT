@@ -120,7 +120,8 @@ Future versions can integrate:
 
 ### Photos
 
-Side view on wall
+Side view
+![side view](photos/side_view.heic)
 Underside showing skirt and fans
 Internal electronics and pump
 Circuit wiring
@@ -130,10 +131,10 @@ Circuit wiring
 Climb test on painted wall
 
 ---
-
+```
 ## 🔹 File Structure
 
-```
+
 wall_climbing_robot/
 ├── images/
 ├── videos/
