@@ -165,7 +165,7 @@ wall_climbing_robot/
 
 ## 🌐 Links
 
-* [Video Demo (Google Drive/YT)](https://#)
+* [Video Demo (Google Drive/YT)](https://drive.google.com/file/d/1pmN1LiY0u8yeCx1RxYphdkuuVO2GqF_o/view?usp=sharing)
 * [Fritzing Circuit Diagram](images/circuit_diagram.jpg)
 
 ---
@@ -174,8 +174,8 @@ wall_climbing_robot/
 
 For feedback, collaboration, or just to chat about robotics:
 
-* [LinkedIn](https://linkedin.com/in/yourname)
-* Email: [you@example.com](mailto:you@example.com)
+* [LinkedIn](https://linkedin.com/in/sahiltibrewal)
+* Email: [you@example.com](mailto:satvik.tibrewal27@gmail.com)
 
 ---
 
