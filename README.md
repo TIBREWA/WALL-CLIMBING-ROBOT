@@ -126,10 +126,6 @@ Underside showing skirt and fans
 Internal electronics and pump
 Circuit wiring
 
-### Videos
-
-Climb test on painted wall
-
 ---
 
 ## 🌐 Future Enhancements
