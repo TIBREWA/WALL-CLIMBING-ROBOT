@@ -131,19 +131,6 @@ Circuit wiring
 Climb test on painted wall
 
 ---
-```
-## 🔹 File Structure
-
-
-wall_climbing_robot/
-├── images/
-├── videos/
-├── code/
-├── models/ (optional TinkerCAD or Fusion exports)
-└── README.md
-```
-
----
 
 ## 🌐 Future Enhancements
 
