@@ -153,7 +153,7 @@ Climb test on painted wall
 
 ## 🌐 Links
 
-* [Video Demo (Google Drive/YT)](https://drive.google.com/file/d/1pmN1LiY0u8yeCx1RxYphdkuuVO2GqF_o/view?usp=sharing)
+* [Video Demo (Google Drive)](https://drive.google.com/file/d/1pmN1LiY0u8yeCx1RxYphdkuuVO2GqF_o/view?usp=sharing)
 * [Fritzing Circuit Diagram](images/circuit_diagram.jpg)
 
 ---
