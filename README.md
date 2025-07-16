@@ -121,7 +121,7 @@ Future versions can integrate:
 ### Photos
 
 Side view
-![side view](photos/side_view.heic)
+![side view](photos/side_view.jpg)
 Underside showing skirt and fans
 Internal electronics and pump
 Circuit wiring
